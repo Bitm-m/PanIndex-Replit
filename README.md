@@ -3,7 +3,7 @@
 
 Replit创建Bash语言，shell中输入
 
-`git clone https://github.com/Sayafx/PanIndex-Replit.git && mv -b PanIndex-Replit/* ./ && mv -b PanIndex-Replit/.[^.]* ./ && rm -rf *~ && rm -rf PanIndex-Replit
+`git clone https://github.com/Bitm-m/PanIndex-Replit.git && mv -b PanIndex-Replit/* ./ && mv -b PanIndex-Replit/.[^.]* ./ && rm -rf *~ && rm -rf PanIndex-Replit
 `
 
 回车等待输出完毕
